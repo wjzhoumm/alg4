@@ -1,0 +1,3 @@
+/home/zwj/algorithm/stack/build/CMakeFiles/rebuild_cache.dir
+/home/zwj/algorithm/stack/build/CMakeFiles/edit_cache.dir
+/home/zwj/algorithm/stack/build/CMakeFiles/main.dir
