@@ -1,0 +1,3 @@
+/home/zwj/algorithm/sort/insertsort/build/CMakeFiles/rebuild_cache.dir
+/home/zwj/algorithm/sort/insertsort/build/CMakeFiles/edit_cache.dir
+/home/zwj/algorithm/sort/insertsort/build/CMakeFiles/main.dir
